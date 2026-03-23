@@ -1,25 +1,13 @@
-# AAIT Lab Repository
+# AAIT-2025-26
 
-## Project Title:
-Student Performance Data Analysis Project
+## About this repository
+This repository contains my AAIT lab experiments and mini-project work.
 
-## Problem:
-The goal of this project is to analyze student performance using data and visualize insights.
+## Tools used
+GitHub, VS Code, Python
 
-## Current Progress:
-- Created GitHub repository
-- Uploaded dataset / code
-- Designed dashboard (Tableau / Figma)
-- Basic analysis completed
+## Contents
+- EXP-15 GitHub Repository Setup
 
-## Files Included:
-- Python code file
-- Screenshots of dashboard
-
-## Next Steps:
-- Improve visualization
-- Add more analysis
-- Optimize code
-
-## Conclusion:
-This repository helps in organizing my lab work and tracking progress.
+## Author
+Your Name, Roll No
