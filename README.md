@@ -10,4 +10,4 @@ GitHub, VS Code, Python
 - EXP-15 GitHub Repository Setup
 
 ## Author
-Your Name, Roll No
+Ganduri Madhusri, 24NA5A6104
